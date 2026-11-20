@@ -1,0 +1,9 @@
+{
+  "name": "taskflow",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TASKFLOW student productivity app",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
